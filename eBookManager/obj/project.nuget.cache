@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k60sD6L/Mnyu+pWXpenusgVCBBDFZlxct5UIinWJcxcJM3Q5WRhOu9S1weThdWn09xfmrrHfg6jSA83H5PoUKA==",
+  "dgSpecHash": "+GIsjObh4QqX22UffpE7QIhM5eGd7uD6s5gubeJIjn+QeIG+H3Qeo95dzAuCYpRLg3Qsn5M0KicvrI0+Uz044A==",
   "success": true,
   "projectFilePath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager\\eBookManager.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mrrie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

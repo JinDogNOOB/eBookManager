@@ -10,6 +10,22 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "eBookManager.Engine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/eBookManager.Engine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eBookManager.Engine.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -44,11 +60,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "eBookManager.Engine/1.0.0": {
+      "type": "project",
+      "path": "../eBookManager.Engine/eBookManager.Engine.csproj",
+      "msbuildProject": "../eBookManager.Engine/eBookManager.Engine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 12.0.3",
+      "eBookManager.Engine >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -57,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj",
-      "projectName": "eBookManager.Engine",
-      "projectPath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj",
+      "projectUniqueName": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
+      "projectName": "eBookManager.Helper",
+      "projectPath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
       "packagesPath": "C:\\Users\\mrrie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Engine\\obj\\",
+      "outputPath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrrie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,7 +97,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
+              "projectPath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

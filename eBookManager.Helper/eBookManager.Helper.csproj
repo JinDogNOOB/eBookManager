@@ -1,13 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\eBookManager.Engine\eBookManager.Engine.csproj"/>
-    <ProjectReference Include="..\eBookManager.Helper\eBookManager.Helper.csproj"/>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3"/>
   </ItemGroup>
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>

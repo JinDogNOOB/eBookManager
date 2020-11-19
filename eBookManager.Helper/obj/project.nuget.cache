@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwYQ8X6R9IkyH7fFk8cyq1NYHU96ERpJnHIpmtObqFlALErICEprVCzHWFo8mvimDa8Fm13qfB1KqpRs8Xj+lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrrie\\Desktop\\git\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrrie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

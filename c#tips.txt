@@ -1,3 +1,7 @@
+# 솔루션파일 생성, 프로젝트 추가
+dotnet new sln //
+dotnet sln add something
+
 dotnet new
 dotnet new something
 
@@ -7,3 +11,22 @@ dotnet add reference 추가하고자하는프로젝트csproj파일
 
 // 다른경로에서
 dotnet 원하는프로젝트경로에있는csproj파일 add reference 추가하고자하는프로젝트csproj파일
+
+
+
+// 
+eBookManager
+eBookManager.Engine // class library
+
+
+
+# 패키지 설치
+https://www.nuget.org/packages/~~~ 
+검색 후 설치
+ex)
+dotnet add package Newtonsoft.Json --version 12.0.3
+
+# 패키지 네임스페이스 인식못하는문제,, 
+ 1. 전역path에 .nuget/packages 추가해봤음
+ 2. 껏다 켰음, resource 뭐 로딩할거냐고 물어봄 한다고했음
+ => 해결
