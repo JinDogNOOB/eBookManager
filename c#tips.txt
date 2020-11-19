@@ -1,0 +1,9 @@
+dotnet new
+dotnet new something
+
+# 참조 추가
+//원하는 프로젝트 경로에서
+dotnet add reference 추가하고자하는프로젝트csproj파일
+
+// 다른경로에서
+dotnet 원하는프로젝트경로에있는csproj파일 add reference 추가하고자하는프로젝트csproj파일
