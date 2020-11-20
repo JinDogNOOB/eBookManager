@@ -1,0 +1,15 @@
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\eBookManager.Helper.deps.json
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\eBookManager.Helper.dll
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\ref\eBookManager.Helper.dll
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\eBookManager.Helper.pdb
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\eBookManager.Engine.dll
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\bin\Debug\net5.0-windows\eBookManager.Engine.pdb
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.csprojAssemblyReference.cache
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.AssemblyInfoInputs.cache
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.AssemblyInfo.cs
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.csproj.CoreCompileInputs.cache
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.csproj.CopyComplete
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.dll
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\ref\eBookManager.Helper.dll
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager.Helper\obj\Debug\net5.0-windows\eBookManager.Helper.pdb

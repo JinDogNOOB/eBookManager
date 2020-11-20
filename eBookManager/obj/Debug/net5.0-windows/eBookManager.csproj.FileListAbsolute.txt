@@ -1,0 +1,5 @@
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager\obj\Debug\net5.0-windows\eBookManager.csprojAssemblyReference.cache
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager\obj\Debug\net5.0-windows\eBookManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager\obj\Debug\net5.0-windows\eBookManager.AssemblyInfoInputs.cache
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager\obj\Debug\net5.0-windows\eBookManager.AssemblyInfo.cs
+C:\Users\mrrie\Desktop\git\eBookManager\eBookManager\obj\Debug\net5.0-windows\eBookManager.csproj.CoreCompileInputs.cache

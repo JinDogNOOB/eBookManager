@@ -14,7 +14,6 @@ namespace eBookManager
     {
         public Form1()
         {
-            
             InitializeComponent();
         }
 
